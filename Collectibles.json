@@ -25,7 +25,7 @@
     "Bling $$ Necklace": { "Value": 4000, "IsRare": true, "Demand": "Low" },
     "Black Sparkle Time Fedora": { "Value": 2700, "IsRare": false, "Demand": "Low" },
     "Dominus Frigidus": { "Value": 5250, "IsRare": true, "Demand": "High" },
-    "PROJEX Madness Face": { "Value": "N/A", "IsRare": false, "Demand": "Low" },
+    "PROJEX Madness Face": { "Value": "2500", "IsRare": false, "Demand": "Low" },
     "Orange Sparkle Time Fedora": { "Value": 3500, "IsRare": false, "Demand": "Low" },
     "Hallow's Void Star": { "Value": 4500, "IsRare": true, "Demand": "Low" },
     "Clockwork's Shades": { "Value": 2500, "IsRare": false, "Demand": "High" },
