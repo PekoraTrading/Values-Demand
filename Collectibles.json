@@ -39,5 +39,6 @@
     "Golden Antlers": { "Value": 5000, "IsRare": true, "Demand": "Medium" },
     "Agonizingly Red Bucket of Cheer": { "Value": 3500, "IsRare": true, "Demand": "High" },
     "Dominus Empyreus": { "Value": 20000, "IsRare": true, "Demand": "High" },
-    "Dominus Astra": { "Value": 14000, "IsRare": true, "Demand": "High" }
+    "Dominus Astra": { "Value": 14000, "IsRare": true, "Demand": "High" },
+    "Frozen Horns of the Frigid Planes": { "Value": 10000, "IsRare": true, "Demand": "High" }
 }
