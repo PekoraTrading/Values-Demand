@@ -26,7 +26,7 @@
     "Black Sparkle Time Fedora": { "Value": 2700, "IsRare": false, "Demand": "Low" },
     "Dominus Frigidus": { "Value": 5000, "IsRare": true, "Demand": "Medium/High" },
     "PROJEX Madness Face": { "Value": 2500, "IsRare": false, "Demand": "Low" },
-    "Orange Sparkle Time Fedora": { "Value": 2700, "IsRare": false, "Demand": "Low" },
+    "Orange Sparkle Time Fedora": { "Value": 3000, "IsRare": false, "Demand": "Low" },
     "Hallow's Void Star": { "Value": 4500, "IsRare": true, "Demand": "Low" },
     "Clockwork's Shades": { "Value": 2500, "IsRare": false, "Demand": "Medium" },
     "Clockwork's Headphones": { "Value": 2000, "IsRare": false, "Demand": "Medium" },
@@ -41,4 +41,5 @@
     "Dominus Empyreus": { "Value": 20000, "IsRare": true, "Demand": "High" },
     "Dominus Astra": { "Value": 14000, "IsRare": true, "Demand": "High" },
     "Frozen Horns of the Frigid Planes": { "Value": 10000, "IsRare": true, "Demand": "High" },
+    "Telamon's Chicken Suit": { "Value": 3000, "IsRare": true, "Demand": "Medium" },
 }
