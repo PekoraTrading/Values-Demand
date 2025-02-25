@@ -34,12 +34,11 @@
     "Festive Periastron Chi": { "Value": 1300, "IsRare": false, "Demand": "Low" },
     "JJ5x5's White Top Hat": { "Value": 1500, "IsRare": false, "Demand": "Low" },
     "Playful Vampire": { "Value": 1200, "IsRare": false, "Demand": "Low" },
-    "Telamon's Chicken Suit": { "Value": 2000, "IsRare": true, "Demand": "Medium" },
     "Pink Sparkle Time Fedora": { "Value": 4000, "IsRare": true, "Demand": "Medium" },
     "Golden Antlers": { "Value": 5000, "IsRare": true, "Demand": "Medium" },
     "Agonizingly Red Bucket of Cheer": { "Value": 3500, "IsRare": true, "Demand": "High" },
     "Dominus Empyreus": { "Value": 20000, "IsRare": true, "Demand": "High" },
-    "Dominus Astra": { "Value": 14000, "IsRare": true, "Demand": "High" },
+    "Dominus Astra": { "Value": 18000, "IsRare": true, "Demand": "High" },
     "Frozen Horns of the Frigid Planes": { "Value": 10000, "IsRare": true, "Demand": "High" },
     "Telamon's Chicken Suit": { "Value": 3000, "IsRare": true, "Demand": "Medium" },
 }
