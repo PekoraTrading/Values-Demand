@@ -29,6 +29,7 @@
     "Orange Sparkle Time Fedora": { "Value": 3000, "IsRare": false, "Demand": "Low" },
     "Hallow's Void Star": { "Value": 4500, "IsRare": true, "Demand": "Low" },
     "Clockwork's Shades": { "Value": 2500, "IsRare": false, "Demand": "Medium" },
+    "Silver King of the Night": { "Value": 2500, "IsRare": false, "Demand": "Medium" },
     "Clockwork's Headphones": { "Value": 2000, "IsRare": false, "Demand": "Medium" },
     "The Ice Crown": { "Value": 1500, "IsRare": false, "Demand": "Low" },
     "Festive Periastron Chi": { "Value": 1300, "IsRare": false, "Demand": "Low" },
