@@ -18,6 +18,7 @@
     "Disgraced Baron of the Federation": { "Value": 3000, "IsRare": true, "Demand": "Medium" },
     "Al Capwn": { "Value": 1500, "IsRare": false, "Demand": "Low" },
     "Noir Periastron Psi": { "Value": 1000, "IsRare": false, "Demand": "Low" },
+    "Adurite Antlers": { "Value": 700, "IsRare": false, "Demand": "Low" },
     "Spartan Helmet": { "Value": 6500, "IsRare": true, "Demand": "Low" },
     "Blue Clockwork Headphones": { "Value": 1200, "IsRare": false, "Demand": "Low" },
     "Neon Void Star": { "Value": 2500, "IsRare": true, "Demand": "Low" },
