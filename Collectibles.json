@@ -4,6 +4,7 @@
     "Ice Valkyrie": { "Value": 2500, "IsRare": false, "Demand": "Medium" },
     "Biggest Head": { "Value": 2000, "IsRare": false, "Demand": "Medium" },
     "Radioactive Beast Mode": { "Value": 800, "IsRare": false, "Demand": "Low" },
+    "Blizzard Beast Mode": { "Value": 1000, "IsRare": false, "Demand": "Medium" },
     "Dominus Messor": { "Value": 2700, "IsRare": false, "Demand": "High" },
     "Amethyst Periastron Kappa": { "Value": 1000, "IsRare": false, "Demand": "Low" },
     "Rainbow Periastron Omega": { "Value": 1200, "IsRare": false, "Demand": "Low" },
