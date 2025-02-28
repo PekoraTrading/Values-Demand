@@ -1,6 +1,7 @@
 {
     "Dominus Infernus": { "Value": 13000, "IsRare": true, "Demand": "High" },
     "Sparkle Time Fedora": { "Value": 4000, "IsRare": true, "Demand": "High" },
+    " Midnight Blue Sparkle Time Fedora": { "Value": 9000, "IsRare": true, "Demand": "High" },
     "Ice Valkyrie": { "Value": 2500, "IsRare": false, "Demand": "Medium" },
     "Biggest Head": { "Value": 2000, "IsRare": false, "Demand": "Medium" },
     "Radioactive Beast Mode": { "Value": 800, "IsRare": false, "Demand": "Low" },
