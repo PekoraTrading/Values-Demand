@@ -18,6 +18,7 @@
     "The Void Star": { "Value": 3500, "IsRare": false, "Demand": "High" },
     "Purple Sparkle Time Fedora": { "Value": 3000, "IsRare": true, "Demand": "High" },
     "The Classic ROBLOX Fedora": { "Value": 2500, "IsRare": true, "Demand": "High" },
+    "Dominus Aureus": { "Value": 25000, "IsRare": true, "Demand": "High" },
     "Disgraced Baron of the Federation": { "Value": 3000, "IsRare": true, "Demand": "Medium" },
     "Al Capwn": { "Value": 1500, "IsRare": false, "Demand": "Low" },
     "Noir Periastron Psi": { "Value": 1000, "IsRare": false, "Demand": "Low" },
