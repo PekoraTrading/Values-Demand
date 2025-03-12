@@ -1,4 +1,4 @@
-local items = {
+{
     ["Dominus Infernus"] = { Value = 13000, IsRare = true, Demand = "High" },
     ["Sparkle Time Fedora"] = { Value = 4000, IsRare = true, Demand = "High" },
     ["Midnight Blue Sparkle Time Fedora"] = { Value = 9000, IsRare = true, Demand = "High" },
