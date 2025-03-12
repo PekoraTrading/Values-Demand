@@ -1,3 +1,4 @@
+{ 
     ["Dominus Infernus"] = { Value = 13000, IsRare = true, Demand = "High" },
     ["Sparkle Time Fedora"] = { Value = 4000, IsRare = true, Demand = "High" },
     ["Midnight Blue Sparkle Time Fedora"] = { Value = 9000, IsRare = true, Demand = "High" },
@@ -48,3 +49,4 @@
     ["Frozen Horns of the Frigid Planes"] = { Value = 10000, IsRare = true, Demand = "High" },
     ["Telamon's Chicken Suit"] = { Value = 3000, IsRare = true, Demand = "Medium" },
     ["Dominus Rex"] = { Value = 9500, IsRare = true, Demand = "Medium/High" }
+}
