@@ -48,5 +48,6 @@
     "Dominus Astra": { "Value": 18000, "IsRare": true, "Demand": "High" },
     "Frozen Horns of the Frigid Planes": { "Value": 10000, "IsRare": true, "Demand": "High" },
     "Telamon's Chicken Suit": { "Value": 3000, "IsRare": true, "Demand": "Medium" },
-    "Dominus Rex": { "Value": 9500, "IsRare": true, "Demand": "Medium/High" }
+    "Dominus Rex": { "Value": 10000, "IsRare": true, "Demand": "High" },
+    "): Star Tailslide": { "Value": 9000, "IsRare": true, "Demand": "Medium" }
 }
