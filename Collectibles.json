@@ -56,4 +56,5 @@
     "Dominus Praefectus": { "Value": 6500, "IsRare": false, "Demand": "Medium" },
     "Black Iron Horns": { "Value": 1250, "IsRare": false, "Demand": "Medium" },
     "Scissors": { "Value": 950, "IsRare": false, "Demand": "Low" },
+    "Duke of the Federation": { "Value": 17500, "IsRare": true, "Demand": "High" },
 }
