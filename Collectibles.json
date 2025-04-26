@@ -60,4 +60,8 @@
     "Red Sparkle Time Fedora": { "Value": 22500, "IsRare": true, "Demand": "High" },
     "Blackvalk": { "Value": 8500, "IsRare": true, "Demand": "Medium" },
     "Red Domino Crown": { "Value": 17000, "IsRare": true, "Demand": "Medium" },
+    "Ghosdeeri": { "Value": 7500, "IsRare": false, "Demand": "Medium" },
+    "Eccentric Shop Teacher": { "Value": 8500, "IsRare": true, "Demand": "Low" },
+    "Sky Blue Sparkle Time Fedora": { "Value": 10000, "IsRare": true, "Demand": "Medium" },
+    "Dark Conjurer": { "Value": 2000, "IsRare": true, "Demand": "Unassigned" },
 }
