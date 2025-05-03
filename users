@@ -1,6 +1,10 @@
 {
   "users": [
     { "id": "1459", "effect": "rainbow" },
-    { "id": "1521", "effect": "pink" }
+    { "id": "1521", "effect": "pink" },
+    { "id": "443", "effect": "gold" },
+    { "id": "3", "effect": "red" },
+    { "id": "1509", "effect": "gold" },
+    { "id": "1049", "effect": "purple" }
   ]
 }
