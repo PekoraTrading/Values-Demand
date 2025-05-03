@@ -51,7 +51,7 @@
   { "Name": "Dominus Praefectus", "Value": 6500, "IsRare": false, "Demand": "Medium" },
   { "Name": "Black Iron Horns", "Value": 1250, "IsRare": false, "Demand": "Low" },
   { "Name": "Scissors", "Value": 950, "IsRare": false, "Demand": "Low" },
-  { "Name": "Duke of the Federation", "Value": 17500, "IsRare": true, "Demand": "High" },
+  { "Name": "Duke of the Federation", "Value": 17600, "IsRare": true, "Demand": "High" },
   { "Name": "Red Sparkle Time Fedora", "Value": 22500, "IsRare": true, "Demand": "High" },
   { "Name": "Blackvalk", "Value": 8500, "IsRare": true, "Demand": "Medium" },
   { "Name": "Red Domino Crown", "Value": 17000, "IsRare": true, "Demand": "Medium" },
