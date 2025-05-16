@@ -56,5 +56,6 @@
   { "Name": "Ghosdeeri", "Value": 7500, "IsRare": false, "Demand": "Medium" },
   { "Name": "Eccentric Shop Teacher", "Value": 8500, "IsRare": true, "Demand": "Low" },
   { "Name": "Sky Blue Sparkle Time Fedora", "Value": 10000, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Dark Conjurer", "Value": 0, "IsRare": true, "Demand": "Unassigned" }
+  { "Name": "Dark Conjurer", "Value": 0, "IsRare": true, "Demand": "Unassigned" },
+  { "Name": "Dominus Vespertilio", "Value": 3000, "IsRare": true, "Demand": "Low" }
 ]
