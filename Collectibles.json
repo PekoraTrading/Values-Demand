@@ -53,6 +53,6 @@
   { "Name": "Sky Blue Sparkle Time Fedora", "Value": 10000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Dark Conjurer", "Value": 0, "IsRare": true, "Demand": "Unassigned" },
   { "Name": "Dominus Vespertilio", "Value": 3000, "IsRare": true, "Demand": "Low" },
-  { "Name": Red Void Star", "Value": 9500, "IsRare": true, "Demand": "Medium" },
+  { "Name": "Red Void Star", "Value": 9500, "IsRare": true, "Demand": "Medium" },
   { "Name": "Domino Crown", "Value": 15000, "IsRare": true, "Demand": "Medium" }
 ]
