@@ -30,7 +30,6 @@
   { "Name": "Pink Sparkle Time Fedora", "Value": 4000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Agonizingly Red Bucket of Cheer", "Value": 3500, "IsRare": true, "Demand": "Low" },
   { "Name": "Dominus Empyreus", "Value": 29500, "IsRare": true, "Demand": "High" },
-  { "Name": "Telamon's Chicken Suit", "Value": 4500, "IsRare": true, "Demand": "Medium" },
   { "Name": "Dominus Rex", "Value": 10000, "IsRare": true, "Demand": "High" },
   { "Name": "Star Tailslide", "Value": 9000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Eerie Pumpkin Head", "Value": 2450, "IsRare": false, "Demand": "Low" },
