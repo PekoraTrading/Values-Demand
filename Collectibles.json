@@ -34,7 +34,6 @@
   { "Name": "Star Tailslide", "Value": 9000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Eerie Pumpkin Head", "Value": 2450, "IsRare": false, "Demand": "Low" },
   { "Name": "Super Super Happy Face", "Value": 5000, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Green Sparkle Time Fedora", "Value": 10500, "IsRare": true, "Demand": "High" },
   { "Name": "Brighteyes' Bloxy Cola Hat", "Value": 10500, "IsRare": true, "Demand": "High" },
   { "Name": "Dominus Praefectus", "Value": 6500, "IsRare": false, "Demand": "Medium" },
   { "Name": "Black Iron Horns", "Value": 1250, "IsRare": false, "Demand": "Low" },
