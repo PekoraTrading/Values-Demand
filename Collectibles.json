@@ -1,2 +1,4 @@
 [
+  { "Name": "American Cowboy", "Value": 2500, "IsRare": false, "Demand": "Unassigned" },
+  { "Name": "Dominus Vespertilio", "Value": 4500, "IsRare": false, "Demand": "Medium" }
 ]
