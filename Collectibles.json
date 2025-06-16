@@ -1,5 +1,5 @@
 [
-  { "Name": "Dominus Infernus", "Value": 13000, "IsRare": true, "Demand": "Medium" },
+  { "Name": "Dominus Infernus", "Value": 18500, "IsRare": true, "Demand": "Medium" },
   { "Name": "Sparkle Time Fedora", "Value": 4000, "IsRare": true, "Demand": "Low" },
   { "Name": "Ice Valkyrie", "Value": 2500, "IsRare": false, "Demand": "Medium" },
   { "Name": "Blizzard Beast Mode", "Value": 1000, "IsRare": false, "Demand": "Medium" },
@@ -50,5 +50,8 @@
   { "Name": "Red Glowing Eyes", "Value": 5500, "IsRare": false, "Demand": "High" },
   { "Name": "): Euro 180", "Value": 5000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Subarctic Commando", "Value": 3700, "IsRare": false, "Demand": "Medium" },
-  { "Name": "American Cowboy", "Value": 2500, "IsRare": false, "Demand": "Unassigned" }
+  { "Name": "American Cowboy", "Value": 2500, "IsRare": false, "Demand": "Unassigned" },
+  { "Name": "Earl Of The Federation", "Value": 16725, "IsRare": false, "Demand": "High" },
+  { "Name": "Duke Of The Federation", "Value": 20000, "IsRare": true, "Demand": "Medium" },
+  { "Name": "Dominus Astra", "Value": 16000, "IsRare": true, "Demand": "Low" }
 ]
