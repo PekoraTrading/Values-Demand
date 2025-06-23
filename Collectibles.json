@@ -35,7 +35,6 @@
   { "Name": "Black Iron Horns", "Value": 1250, "IsRare": false, "Demand": "Low" },
   { "Name": "Red Domino Crown", "Value": 17000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Eccentric Shop Teacher", "Value": 8500, "IsRare": true, "Demand": "Low" },
-  { "Name": "Sky Blue Sparkle Time Fedora", "Value": 10000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Dark Conjurer", "Value": 0, "IsRare": true, "Demand": "Unassigned" },
   { "Name": "Dominus Vespertilio", "Value": 4500, "IsRare": true, "Demand": "Low" },
   { "Name": "Red Void Star", "Value": 8950, "IsRare": true, "Demand": "Medium" },
