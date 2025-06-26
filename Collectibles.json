@@ -44,7 +44,7 @@
   { "Name": "Earl Of The Federation", "Value": 16725, "IsRare": false, "Demand": "Medium" },
   { "Name": "Duke Of The Federation", "Value": 20000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Dominus Astra", "Value": 16000, "IsRare": true, "Demand": "Low" },
-  { "Name": "Blackvalk", "Value": 4250, "IsRare": false, "Demand": "Medium" },
+  { "Name": "Blackvalk", "Value": 5500, "IsRare": false, "Demand": "High" },
   { "Name": "From the Vault: Kawaii Cat", "Value": 2500, "IsRare": false, "Demand": "Medium" },
   { "Name": "Midnight Blue Sparkle Time Fedora", "Value": 12500, "IsRare": false, "Demand": "Medium" }
 ]
