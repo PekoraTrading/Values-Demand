@@ -48,5 +48,6 @@
   { "Name": "From the Vault: Kawaii Cat", "Value": 2500, "IsRare": false, "Demand": "Medium" },
   { "Name": "Midnight Blue Sparkle Time Fedora", "Value": 12500, "IsRare": false, "Demand": "Medium" },
   { "Name": "Domino Crown", "Value": 15000, "IsRare": true, "Demand": "Medium" },
-  { "Name": "The Empenguinus", "Value": 3500, "IsRare": true, "Demand": "Medium" }
+  { "Name": "The Empenguinus", "Value": 3500, "IsRare": true, "Demand": "Medium" },
+  { "Name": "Black Sparkle Time Fedora", "Value": 7000, "IsRare": false, "Demand": "Medium" }
 ]
