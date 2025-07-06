@@ -22,7 +22,7 @@
   { "Name": "Silver King of the Night", "Value": 2500, "IsRare": true, "Demand": "Medium" },
   { "Name": "Clockwork's Headphones", "Value": 3000, "IsRare": false, "Demand": "Medium" },
   { "Name": "Playful Vampire", "Value": 1200, "IsRare": false, "Demand": "Low" },
-  { "Name": "Red Sparkle Time Fedora", "Value": 14000, "IsRare": true, "Demand": "High" },
+  { "Name": "Red Sparkle Time Fedora", "Value": 18500, "IsRare": true, "Demand": "High" },
   { "Name": "Green Sparkle Time Fedora", "Value": 8000, "IsRare": true, "Demand": "High" },
   { "Name": "Frozen Horns of the Frigid Planes", "Value": 7500, "IsRare": true, "Demand": "High" },
   { "Name": "Dominus Empyreus", "Value": 60000, "IsRare": true, "Demand": "High" },
