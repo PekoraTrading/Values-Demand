@@ -5,7 +5,7 @@
   { "Name": "Viscount of the Federation", "Value": 1500, "IsRare": false, "Demand": "Low" },
   { "Name": "Dominus Messor", "Value": 2700, "IsRare": false, "Demand": "Medium" },
   { "Name": "Poisoned Horns of the Toxic Wasteland", "Value": 3000, "IsRare": false, "Demand": "Medium" },
-  { "Name": "Rainbow Shaggy", "Value": 3000, "IsRare": true, "Demand": "Medium" },
+  { "Name": "Rainbow Shaggy", "Value": 4850, "IsRare": true, "Demand": "Medium" },
   { "Name": "Fiery Horns of the Netherworld", "Value": 5500, "IsRare": false, "Demand": "High" },
   { "Name": "Transient Harmonica", "Value": 2500, "IsRare": false, "Demand": "Medium" },
   { "Name": "The Void Star", "Value": 3500, "IsRare": false, "Demand": "High" },
