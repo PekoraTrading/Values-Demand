@@ -44,7 +44,7 @@
   { "Name": "Earl Of The Federation", "Value": 12000, "IsRare": false, "Demand": "Medium" },
   { "Name": "Duke Of The Federation", "Value": 28500, "IsRare": true, "Demand": "Medium" },
   { "Name": "Dominus Astra", "Value": 25000, "IsRare": true, "Demand": "Low" },
-  { "Name": "Blackvalk", "Value": 7500, "IsRare": false, "Demand": "High" },
+  { "Name": "Blackvalk", "Value": 9750, "IsRare": false, "Demand": "High" },
   { "Name": "From the Vault: Kawaii Cat", "Value": 2500, "IsRare": false, "Demand": "Medium" },
   { "Name": "Midnight Blue Sparkle Time Fedora", "Value": 12500, "IsRare": false, "Demand": "Medium" },
   { "Name": "Domino Crown", "Value": 25000, "IsRare": true, "Demand": "Medium" },
@@ -52,5 +52,6 @@
   { "Name": "Black Sparkle Time Fedora", "Value": 7000, "IsRare": false, "Demand": "High" },
   { "Name": "Prankster", "Value": 3500, "IsRare": false, "Demand": "High" },
   { "Name": "Tixvalk", "Value": 2500, "IsRare": false, "Demand": "Low" },
-  { "Name": "Sky Blue Sparkle Time Fedora", "Value": 10000, "IsRare": true, "Demand": "Medium" }
+  { "Name": "Sky Blue Sparkle Time Fedora", "Value": 10000, "IsRare": true, "Demand": "Medium" },
+  { "Name": "Pink Sparkle Time Fedora", "Value": 7250, "IsRare": false, "Demand": "Medium" }
 ]
