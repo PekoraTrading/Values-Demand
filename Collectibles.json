@@ -53,5 +53,6 @@
   { "Name": "Prankster", "Value": 3500, "IsRare": false, "Demand": "High" },
   { "Name": "Tixvalk", "Value": 2500, "IsRare": false, "Demand": "Low" },
   { "Name": "Sky Blue Sparkle Time Fedora", "Value": 10000, "IsRare": true, "Demand": "Medium" },
-  { "Name": "Pink Sparkle Time Fedora", "Value": 7250, "IsRare": false, "Demand": "Medium" }
+  { "Name": "Pink Sparkle Time Fedora", "Value": 7250, "IsRare": false, "Demand": "Medium" },
+  { "Name": "Yum", "Value": 7000, "IsRare": false, "Demand": "High" }
 ]
