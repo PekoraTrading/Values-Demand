@@ -31,7 +31,7 @@
   { "Name": "Super Super Happy Face", "Value": 3000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Dominus Praefectus", "Value": 4000, "IsRare": false, "Demand": "Medium" },
   { "Name": "Black Iron Horns", "Value": 1250, "IsRare": false, "Demand": "Low" },
-  { "Name": "Red Domino Crown", "Value": 17000, "IsRare": true, "Demand": "Medium" },
+  { "Name": "Red Domino Crown", "Value": 19000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Eccentric Shop Teacher", "Value": 8500, "IsRare": true, "Demand": "Low" },
   { "Name": "Dominus Vespertilio", "Value": 4500, "IsRare": false, "Demand": "Low" },
   { "Name": "Red Void Star", "Value": 8950, "IsRare": true, "Demand": "Medium" },
