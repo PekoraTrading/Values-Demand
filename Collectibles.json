@@ -54,5 +54,6 @@
   { "Name": "Sky Blue Sparkle Time Fedora", "Value": 10000, "IsRare": true, "Demand": "Medium" },
   { "Name": "Pink Sparkle Time Fedora", "Value": 7250, "IsRare": false, "Demand": "Medium" },
   { "Name": "Yum!", "Value": 7000, "IsRare": false, "Demand": "High" },
-  { "Name": "Emerald Valkyrie!", "Value": 7250, "IsRare": false, "Demand": "Medium" }
+  { "Name": "Emerald Valkyrie", "Value": 7250, "IsRare": false, "Demand": "Medium" },
+  { "Name": "Dual Darkhearts", "Value": 12500, "IsRare": false, "Demand": "Medium" }
 ]
